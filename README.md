@@ -1,4 +1,4 @@
-# Malaria-in-Africa-Project
+# Malaria-in-Africa
 This repo contains all files concerning Malaria in Africa project
 
 Project Report on Malaria in Africa
